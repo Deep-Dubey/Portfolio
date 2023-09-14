@@ -19,6 +19,8 @@ body {
 
 .card .img {
   overflow: hidden;
+  height: 24rem;
+  object-fit:fill;
 }
 
 .card .img img {
